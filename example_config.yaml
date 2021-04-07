@@ -1,0 +1,7 @@
+kaggle:
+    username: ***
+    key: ***
+    proxy: ***  # proxy without ascii code
+
+proxy: *** # with ascii code for bash
+    
